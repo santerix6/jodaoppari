@@ -1,0 +1,2 @@
+# jodaoppari
+Jodan oppimispäiväkirja
